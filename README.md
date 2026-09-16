@@ -1,2 +1,2 @@
 # complexityAndTractability
-Algorithm implementations for computer science external and the scholarship dtech exam
+Algorithm implementations for computer science external and the scholarship dtech exam, also some data structures
